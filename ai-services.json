@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "bard.google.com",
+        "gemini.google.com",
+        "ai.google.com",
+        "ai.google.dev",
+        "makersuite.google.com",
+        "aistudio.google.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "chatgpt.com",
+        "openai.com",
+        "claude.ai",
+        "anthropic.com"
+      ]
+    }
+  ]
+}
