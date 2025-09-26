@@ -1,33 +1,17 @@
-# AI Services Bypass Rules for Hong Kong
-# These AI services are actually blocked or restricted in Hong Kong
-# Compatible with SRS-enabled VPN clients
-# Updated: 2025-09-26 (Verified)
-
-# OpenAI ChatGPT - Officially blocked since July 2024
 chatgpt.com
 www.chatgpt.com
 openai.com
 www.openai.com
 api.openai.com
 platform.openai.com
-
-# Claude AI (Anthropic) - Blocked by Anthropic policy
 claude.ai
 www.claude.ai
 anthropic.com
 www.anthropic.com
 api.anthropic.com
-
-# Google AI Services - Restricted in Hong Kong
 bard.google.com
 gemini.google.com
 ai.google.com
 ai.google.dev
 makersuite.google.com
 aistudio.google.com
-
-# Note: The following are NOT included as they work in Hong Kong:
-# - Microsoft Copilot (fully available)
-# - Character AI (no regional restrictions)
-# - GitHub Copilot (available, only Claude models within it are restricted)
-# - Midjourney (accessible via Discord)
